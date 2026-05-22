@@ -1,10 +1,10 @@
-网页版 T大树洞：[https://thuhole.com/](https://thuhole.com/)
+网页版 留子树洞：[https://liuzi.cc/](https://liuzi.cc/)
 
 ![https://api.travis-ci.org/thuhole/webhole.svg?branch=master](https://api.travis-ci.org/thuhole/webhole.svg?branch=master)
 
 ## 安装方式
 ```bash
-git clone https://github.com/thuhole/webhole
+git clone https://github.com/euhollow/webhole
 cd webhole
 git submodule update --init --recursive
 
