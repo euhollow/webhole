@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d0acbf28cd981e2de94ab35aabdb14b5",
-    "url": "./index.html"
+    "url": "https://cdn.jsdelivr.net/gh/euhollow/webhole@gh-pages-master/index.html"
   },
   {
     "revision": "35fd4a9bdece413dc151",
